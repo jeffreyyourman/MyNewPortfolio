@@ -1,0 +1,103 @@
+html, body{
+  margin:0 !important;
+  padding:0 !important;
+}
+
+.entire {
+  width:100%
+}
+.carousel {
+  width:inherit;;
+}
+
+.mySlides {
+  width:inherit;
+}
+/*========about me section ============*/
+.aboutMeSection {
+  background-color: gray;
+  margin: 0 auto;
+  width:100%;
+}
+
+#aboutMeH1 {
+  color: black;
+  text-align: center;
+}
+
+.test {
+  margin-left: 10%;
+}
+
+.imageOfMe {
+  padding:1%;
+}
+
+#image {
+  background-color: white;
+  padding:5%;
+}
+
+.textAboutMe {
+  padding:1%;
+}
+
+#aboutMeText {
+  background-color: white;
+  width: 80%;
+  padding: 5%;
+  }
+/*======== end of about me section ============*/
+
+/*========== beginning of skills section =========*/
+.myServicesSection {
+  background-color: gray;
+  margin: 0 auto;
+  width:100%;
+  text-align: center;
+}
+#services {
+  padding: 5%;
+}
+/*========== end of skills section =========*/
+
+
+/*========== beginning of Portfolio section =========*/
+
+.myPortfolioSection {
+  background-color: gray;
+  margin: 0 auto;
+  width:100%;
+  text-align: center;
+}
+
+
+/*========== end of Portfolio section =========*/
+
+/*========== beginning of skills section =========*/
+
+.mySkillsSection {
+  background-color: gray;
+  margin: 0 auto;
+  width:100%;
+  text-align: center;
+}
+
+
+/*========== end of Skills section =========*/
+
+/*========== beginning of Contact section =========*/
+
+.myContactSection {
+  background-color: gray;
+  margin: 0 auto;
+  width:100%;
+  text-align: center;
+}
+
+.form {
+  padding:5%;
+}
+
+
+/*========== end of Contact section =========*/
